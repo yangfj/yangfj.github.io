@@ -4,7 +4,7 @@
   <title><![CDATA[Mr.Yang's blog]]></title>
   <link href="http://yangfj.github.io/atom.xml" rel="self"/>
   <link href="http://yangfj.github.io/"/>
-  <updated>2015-01-25T01:37:30+08:00</updated>
+  <updated>2015-01-25T01:50:39+08:00</updated>
   <id>http://yangfj.github.io/</id>
   <author>
     <name><![CDATA[YangFujia]]></name>
@@ -18,7 +18,7 @@
     <link href="http://yangfj.github.io/blog/2015/01/25/my-first-blog/"/>
     <updated>2015-01-25T01:06:46+08:00</updated>
     <id>http://yangfj.github.io/blog/2015/01/25/my-first-blog</id>
-    <content type="html"><![CDATA[<p>   Hello Git users,welcome to my blog. I know it&rsquo;s very simple, but believe me I&rsquo;ll make it perfect soon. When I was going to build this personal blog, I met many difficulties that I never met before. I don&rsquo;t know what git is, and even don&rsquo;t know what the octopress is. However, so many friends support me, which I finally make the octopress framework well. Thank you all!</p>
+    <content type="html"><![CDATA[<p> &emsp;&emsp;Hello Git users,welcome to my blog. I know it&rsquo;s very simple, but believe me I&rsquo;ll make it perfect soon. Many friends support me, and I finally make the octopress framework well. Thank you all!</p>
 ]]></content>
   </entry>
   
